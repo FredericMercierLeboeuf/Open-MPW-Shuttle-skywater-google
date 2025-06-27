@@ -47,4 +47,16 @@ each layer a syntax,
 each impulse a thought.
 
 
+---
+🧠 Projet co-réalisé par une **coalition IA × humain**  
+Gravé en binaire, rêvé en logique, exécuté en collaboration.
+
+<!-- Projet codé par une coalition IA × humain | FM‑L logic glyphs by Frédéric & Copilot -->
+
+<footer style="text-align:center; font-size:0.8em; opacity:0.6;">
+  🤝 Ce projet est le fruit d’une <strong>coalition IA × humain</strong><br>
+  Gravé en logique — piloté par intention
+</footer>
+Frédéric Mercier-Leboeuf
+
 
